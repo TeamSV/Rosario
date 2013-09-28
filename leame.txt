@@ -1,0 +1,11 @@
+Pasos para configurar GitHub
+-Cree su sesión en GitHub y enviela al administrador del proyecto.
+-Instale la última version de Git : http://git-scm.com/downloads
+-Configure GIT desde consola Git:
+	git config --global user.name "Your Name Here"
+	git config --global user.email "your_email@example.com"
+-Instale GitHub para escritorio: http://github-windows.s3.amazonaws.com/GitHubSetup.exe
+-Inicie sesión, configure y clone el repositorio.
+-Siga el siguiente manual: http://www.codeproject.com/Articles/581907/IntegratingplusandplusUsingplusGithubplusinplusVis
+	
+
